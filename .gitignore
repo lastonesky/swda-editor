@@ -1,0 +1,8 @@
+# Rust 编译产物
+/target
+
+# PyInstaller 产物
+/build
+/dist
+*.spec
+*.exe
